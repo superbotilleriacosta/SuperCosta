@@ -4,7 +4,7 @@
 		$email = $_POST['email'];
 		$message = $_POST['message'];
 		$from = 'Chicago Contact Form'; 
-		$to = 'sekram07@gmail.com'; 
+		$to = 'fjff603@gmail.com'; 
 		$subject = $_POST['subject']; 
 		
 		$body = "From: $name\n E-Mail: $email\n Subject: $subject\n Message:\n $message";
